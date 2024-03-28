@@ -1,4 +1,4 @@
-# IRC Server
+# ChatNet
 
 ## About The Project
 Embark on a journey into network programming by developing your personalized IRC (Internet Relay Chat) server in C++. This project offers hands-on experience with socket programming, protocol implementation, and network communication while providing a genuine IRC client testing experience.
